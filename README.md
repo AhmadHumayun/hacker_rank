@@ -4,3 +4,4 @@ This repository contains practice problems available on hacker rank and the solu
  1. Warm-up Challenges
     1. Sales By Match
     2. Repeated Strings
+    3. Counting Valleys
