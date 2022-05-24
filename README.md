@@ -9,4 +9,5 @@ This repository contains practice problems available on hacker rank and the solu
  2. Arrays
     1. 2D Array DS (max sum of hourglass)
     2. Left Rotation
+    3. Minimum Swaps 2
     
